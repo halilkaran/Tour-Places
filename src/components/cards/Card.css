@@ -1,0 +1,59 @@
+.card {
+  
+  background-color: black !important;
+border-radius: 3rem!important ;
+}
+.col-3 {
+  width: 30rem !important;
+  padding: 1rem !important;
+  padding-right: 3rem !important;
+  padding-left: 1.7rem !important;
+  padding-bottom: 1.7rem !important;
+   
+  
+}
+
+.card-img {
+  width: 100% !important;
+  height: 19rem !important;
+  
+  
+  border-radius: 3rem!important ;
+box-shadow: 15px -12px 9px rgba(230, 230, 230, 0.609);
+  
+}
+.card:hover {
+  filter: grayscale(100%) !important;
+}
+.card-img-overlay {
+  align-items: end;
+  text-align: center;
+  overflow: hidden !important;
+  
+}
+.con {
+  padding-top: 2rem;
+  gap: 2rem;
+  justify-content: space-evenly;
+
+}
+.card-title {
+  margin-bottom:1rem!important;
+  padding-left: 1rem;
+  color: white;
+  font-family: "Coming Soon", cursive;
+
+  padding-top: 1rem;
+}
+.card-text {
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+  font-size: 0.8rem !important;
+  padding-top: 10rem;
+  font-weight: bold;
+  opacity: 0;
+}
+.card-text:hover{
+    opacity: 1;
+    transition: all 1s;
+}

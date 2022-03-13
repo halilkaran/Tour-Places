@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: rgb(158, 219, 255) !important;
+}
+h1 {
+  margin-top: 4rem !important;
+  font-size: 2rem !important;
+  text-align: center;
+  font-family: "Coming Soon", cursive;
+}
