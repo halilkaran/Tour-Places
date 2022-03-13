@@ -5,7 +5,7 @@ import "./Header.css";
 function Header() {
   return (
     <>
-      <Navbar fluid  bg="dark" variant="dark" sticky="top">
+      <Navbar   bg="dark" variant="dark" sticky="top">
         <Container>
           <Nav className="me-auto">
             <Nav.Link href="#a">ABOUT US</Nav.Link>
