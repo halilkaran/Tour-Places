@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap");
+
+.navbar {
+  font-size: 1.6rem !important;
+  padding-bottom: 0 !important;
+ 
+
+}
+
+.me-auto {
+  font-family: "Coming Soon", cursive;
+  margin: auto !important;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.me-auto .nav-link:hover {
+  color: black !important;
+font-weight: bold !important;
+  background-color: rgb(158, 219, 255);
+}
+.nav-link.active {
+   background-color: rgb(158, 219, 255);
+
+}
+
+

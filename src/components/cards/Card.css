@@ -1,6 +1,5 @@
 .card {
-  position: relative;
-  overflow: hidden;
+
   background-color: black !important;
   border-radius: 3rem !important ;
 }
@@ -29,7 +28,7 @@
 .con {
   padding-top: 2rem;
   gap: 2rem;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 .card-title {
   margin-bottom: 1rem !important;
@@ -55,3 +54,4 @@
   transform: translateY(-0%);
   background-color: rgba(0, 0, 0, 0.452);
 }
+
