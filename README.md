@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+ LIVE SITE [TOUR PLACE NETLIFY](https://tour-places-halo.netlify.app).
 
 # Project-001 : Tour Places (RC-01)
 
